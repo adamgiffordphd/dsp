@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I installed Python 3 because it is the latest version, it is what HackerRank is configured with, and it was recommended by Metis.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,8 +55,11 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+```console
+$ python --version
+Python 3.6.8 :: Anaconda, Inc.
+$
+```
  
 
 
