@@ -191,10 +191,7 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?
-```
-Shortened files sizes from bytes to units with suffixes (e.g., K, M, etc)
-```
+> What changed? ->Shortened files sizes from bytes to units with suffixes (e.g., K, M, etc)
 
 If instead copying we just want to change the name of a file, we can do:
 
