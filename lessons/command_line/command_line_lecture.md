@@ -70,7 +70,7 @@ directory.
 
 > Question: How could we make sure that we moved?
 ```
-By use pwd again
+By using pwd again
 ```
 
 Let's get a few special things out of the way as well for command line. When
@@ -195,6 +195,9 @@ ls -lh
 ```
 
 > What changed?
+```
+Shortened files sizes from bytes to units with suffixes (e.g., K, M, etc)
+```
 
 If instead copying we just want to change the name of a file, we can do:
 
